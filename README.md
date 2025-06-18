@@ -18,9 +18,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=passawitdev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passawitdev&layout=compact&theme=tokyonight" />
-</p>
+## My project
+-[Minor-Ciniplex](https://minor-cineplex-final-project.vercel.app/home-landing)
+-[Music-player(On-going)](https://music-player-git-dev-jins-projects-67be04e8.vercel.app/home-landing)
+
 
